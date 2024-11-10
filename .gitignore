@@ -1,0 +1,6 @@
+data
+log
+ignore
+test.py
+model
+__pycache__
